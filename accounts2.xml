@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE accounts [
-<!ENTITY data SYSTEM 'accounts.txt'>
+<!DOCTYPE Data [
+<!ENTITY data SYSTEM 'data.txt'>
 ]>
-<Version>
-  &accounts;
-</Version>
+<Data>
+  &data;
+</Data>
